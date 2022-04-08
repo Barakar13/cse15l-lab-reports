@@ -4,7 +4,7 @@ Hello my dear cat!
 **His name: JoJo** 
 *his characteristics are brave and humor*
 [JoJo Information](https://jojo.fandom.com/wiki/Joseph_Joestar)
-![JoJo Photography](https://static.wikia.nocookie.net/jjba/images/e/e8/JosephTequila.png/revision/latest?cb=20131018212210)
+![JoJo Photography](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMWOz5zazASeH6_HEnBFwE3QVgpfWLtDa-vw&usqp=CAU)
 > Blockquote JoJo is a lovely cat.
 * List smooth fur
 * List funny head
