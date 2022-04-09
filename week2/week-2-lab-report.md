@@ -22,8 +22,15 @@
 ![Install VScode](commands.png)
 
 ## Part 4 - Moving Files with `scp`
+* type code `scp WhereAmI.java cs15lsp22zz@ieng6.ucsd.edu:~/` in the terminal (Replace the java file with any java file you want)
+![Install VScode](scp1.png)
+* After successfully copying any java file into the server, try to run the java file in this server, like what shown below
+![Install VScode](scp2.png)
 
 ## Part 5 - Setting an SSH Key
+* type `ssh-keygen` in the terminal
+* when you see `Enter file in which to save the key (/Users/<user-name>/.ssh/id_rsa):`, type `/Users/<user-name>/.ssh/id_rsa` 
+* keep running untile 
 
 ## Part 6 - Optimizing Remote Running
 
