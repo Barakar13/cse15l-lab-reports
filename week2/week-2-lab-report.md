@@ -31,10 +31,14 @@
 * type `ssh-keygen` in the terminal
 * when you see `Enter file in which to save the key (/Users/<user-name>/.ssh/id_rsa):`, type `/Users/<user-name>/.ssh/id_rsa` 
 * keep running like the process below
-![Install VScode](ssh1.png)
+![Install VScode](keygen1.png)
 * then repeat `ssh cs15lsp22zz@ieng6.ucsd.edu
 * type `mkdir .ssh` to generate new file
+* finally copy rsa file from your computer to the server, by typing `scp /Users/<user-name>/.ssh/id_rsa.pub cs15lsp22zz@ieng6.ucsd.edu:~/.ssh/authorized_keys`
 
 ## Part 6 - Optimizing Remote Running
+* use semicons to run multiple commands in one line
+* use "" to directly run commands in the server
+![Install VScode](optimize.png)
 
 
