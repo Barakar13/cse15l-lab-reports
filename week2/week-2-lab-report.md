@@ -30,7 +30,10 @@
 ## Part 5 - Setting an SSH Key
 * type `ssh-keygen` in the terminal
 * when you see `Enter file in which to save the key (/Users/<user-name>/.ssh/id_rsa):`, type `/Users/<user-name>/.ssh/id_rsa` 
-* keep running untile 
+* keep running like the process below
+![Install VScode](ssh1.png)
+* then repeat `ssh cs15lsp22zz@ieng6.ucsd.edu
+* type `mkdir .ssh` to generate new file
 
 ## Part 6 - Optimizing Remote Running
 
