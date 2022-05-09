@@ -13,3 +13,25 @@ I copy the file example.java into my account
 ![copy](scpResult.png)
 
 ## Setup Github Access from ieng6
+### Public Key in Github
+![publicKey](publicKey.png)
+### Public Key and Private Key in User Account
+![keys](privateKey.png)
+### push a change and running process
+I create an example.txt file and push this file to the Github from my account.
+![runningProcess](pushResult.png)
+![runningProcess2](pushResult2.png)
+### link to this commit
+[example.txt](https://github.com/Barakar13/markdown-parser/commit/6824cd4549234314adda8ec2e4390ad9e525b657)
+or
+"https://github.com/Barakar13/markdown-parser/commit/6824cd4549234314adda8ec2e4390ad9e525b657"
+
+## Copy whole directories with `scp -r`
+### Copy a whole directory to my ieng6 account
+![copyResult](copyDirectory.png)
+### login my ieng6 account and run tests in the copied directory
+![runTest](runTest.png)
+### combining `scp`, `;`, and `ssh` to copy the whole directory and run tests
+![combination](oneLine1.png)
+![combination2](oneLine2.png)
+
