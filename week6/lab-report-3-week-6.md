@@ -21,10 +21,14 @@ I copy the file example.java into my account
 I create an example.txt file and push this file to the Github from my account.
 ![runningProcess](pushResult.png)
 ![runningProcess2](pushResult2.png)
+push new changes without passwords:
+![newChanges](pushAutomatically.PNG)
 ### link to this commit
 [example.txt](https://github.com/Barakar13/markdown-parser/commit/6824cd4549234314adda8ec2e4390ad9e525b657)
 or
 "https://github.com/Barakar13/markdown-parser/commit/6824cd4549234314adda8ec2e4390ad9e525b657"
+
+new commit link: [newCommit](https://github.com/Barakar13/markdown-parser/commit/12746078da8b3ab47a20a943f122bda1042f9d53) or "https://github.com/Barakar13/markdown-parser/commit/12746078da8b3ab47a20a943f122bda1042f9d53"
 
 ## Copy whole directories with `scp -r`
 ### Copy a whole directory to my ieng6 account
