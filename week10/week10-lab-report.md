@@ -24,7 +24,7 @@ After finding the ] in the command `int closeBracket = markdown.indexOf("]", ope
 ### Expected Outputs:
 ![expectedOutputs](201expected.png)
 
-The expected link is [baz]. Thus, only others' implementation is incorrect.
+The expected link is []. Thus, only others' implementation is incorrect.
 ### Description of Bugs:
 ![code2](201CodeChange.png)
 
